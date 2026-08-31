@@ -26,10 +26,10 @@ request to resume an existing session).  On exit, your session will
 automatically be saved.  Information saved with your session includes
 breakpoints, program arguments, working directory path, environment variables,
 etc.  Additionally, you can save the current session to the database on demand by
-selecting File > Save Session to Disk.
+selecting `File > Save Session to Disk`.
 To resume a previously saved debugging session, you can either specify the
-session ID to the --executesession command line option or select File > Saved
-Sessions... > [select session] from the User interface.
+session ID to the `--executesession` command line option or select `File > Saved
+Sessions... > [select session]` from the User interface.
 To resume the last saved debugging session you can just type "nemiver --last".
 
 Source Directories
